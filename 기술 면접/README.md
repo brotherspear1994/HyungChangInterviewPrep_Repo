@@ -48,12 +48,14 @@
   - Beautiful soup 과 ElementTree 라이브러리 두개를 중심으로 for문을 돌려 하나의 tuple에 해당하는 데이터를 딕셔너리로 만들고 앞서 선언한 리스트에 넣어준 뒤, 리스트가 완성되면 다시 그 리스트에 대해 for 문을 돌려 sql의 Insert into 구문으로 변경해 sql문서로 저장했다고 말함.
 - `MySQL 데이터를 Oracle DB에 전환시키는 방법`. 모가 있을까??
   - 대답 1도못함...
-  - 그래서 공부했다. [MySQL를 Oracle DB에 이식하는 방법]()
-- [`DFS 시간복잡도`]()
-- [`정렬 알고리즘 시간 복잡도`]()
-  - [`Bubble Sort시간복잡도` ]()
-  - [`퀵 정렬 시간복잡도`]()
-  - [`병합 정렬시간복잡도` ]( )
+  - 그래서 공부했다. [MySQL를 Oracle DB에 이식하는 방법](https://jhparkkk.tistory.com/11)
+  - oracle에서 제공하는 SQL Developer Migration workbench를 사용해 
+- [`DFS 시간복잡도`](https://github.com/brotherspear1994/HyungChangInterviewPrep_Repo/blob/master/%EA%B8%B0%EC%88%A0%20%EB%A9%B4%EC%A0%91/DFS%2C%20BFS%20%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+  - 하는김에 `BFS` 시간복잡도도 함께 공부함. 
+- [`정렬 알고리즘 시간 복잡도`](https://github.com/brotherspear1994/HyungChangInterviewPrep_Repo/blob/master/%EA%B8%B0%EC%88%A0%20%EB%A9%B4%EC%A0%91/%EC%A0%95%EB%A0%AC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
+  - `Bubble Sort시간복잡도` 
+  - `퀵 정렬 시간복잡도`
+  - `병합 정렬시간복잡도` 
 
 
 
@@ -96,3 +98,4 @@
   - 내 본래 목표가 ~ 였던 만큼 귀사가 내 꿈과 목표에 가장 가까운 회사다. 그만큼 끝까지 열의를 가지고 할 자신이 있다. 이런 부분을 알아주시면 감사하겠습니다.~ 라고 했음.
   - 가슴이 웅장해지는 말이었다. 싸피 마지막 할 말과 동급수쥰;;
   - 근데 떨어지면 슬플 것 같다.
+
